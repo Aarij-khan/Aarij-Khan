@@ -22,7 +22,7 @@
 <p align="left">
 
 <a href="https://instagram.com/muhammad_rayyan.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_rayyan.11" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-rayyan11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Rayyan" height="30" width="40" /></p>
+<a href="https://www.linkedin.com/in/aarij-raza-146364328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Rayyan" height="30" width="40" /></p>
 </p>
 
 
@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadRayyan16&show_icons=true&locale=en" alt="MuhammadRayyan16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRayyan16&" alt="MuhammadRayyan16" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarij-khan&" alt="aarij-khan" /></p>
 
 <p align="center">
  <img width="1000" src="./github-snake.svg" alt="snake"/>

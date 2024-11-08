@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *aarij502@gmail.com*
 
-- ⚡ Fun fact \_I think I am funny😉
+- ⚡ Fun fact \_I think I am friendly😉
 
 
 <h3 align="left">Connect with me:</h3>
@@ -34,7 +34,7 @@
 <h3 align="left">My Github Overview:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRayyan16&show_icons=true&locale=en&layout=compact" alt="MuhammadRayyan16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadRayyan16&show_icons=true&locale=en" alt="MuhammadRayyan16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aarij khan&show_icons=true&locale=en" alt="MuhammadRayyan16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarij-khan&" alt="aarij-khan" /></p>
 

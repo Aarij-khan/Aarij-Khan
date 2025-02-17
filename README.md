@@ -1,4 +1,6 @@
-![logo](https://github.com/Rayyan7878/Rayyan7878/blob/main/githubban.gif)
+![logo](https://media.licdn.com/dms/image/v2/D4D16AQGvyZlba8Fw9g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732312090050?e=1745452800&v=beta&t=8JvzHrpCwI2LPoqvyo5Dv4N_M6kkCMaiaJ-zr6KLE2U)
+
+
 
 
 <h1 align="center">Hi 👋, I'm Aarij Khan</h1>
